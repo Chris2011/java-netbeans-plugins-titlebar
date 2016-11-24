@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2016 astral
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="2.0">
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.about_title_bar.html" url="about_title_bar.html"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html" url="options_panel.html"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Show_Title_Bar" url="options_panel.html#Show_Title_Bar"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Show_Title_Bar_Menu" url="options_panel.html#Show_Title_Bar_Menu"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Show_Custom_Buttons" url="options_panel.html#Show_Custom_Buttons"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Show_Title_Bar_Title_As_Tooltip" url="options_panel.html#Show_Title_Bar_Title_As_Tooltip"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Maximize_Restore_On_Double_Click" url="options_panel.html#Maximize_Restore_On_Double_Click"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Border_Size" url="options_panel.html#Border_Size"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Drag_Size" url="options_panel.html#Drag_Size"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Use_Custom_Border" url="options_panel.html#Use_Custom_Border"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#Use_Custom_Drag" url="options_panel.html#Use_Custom_Drag"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#revert_changes" url="options_panel.html#revert_changes"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#load_default_values" url="options_panel.html#load_default_values"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.options_panel.html#WARNING" url="options_panel.html#WARNING"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html" url="editor_layer.html"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#Layer_Validation_Output" url="editor_layer.html#Layer_Validation_Output"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#validate_layer" url="editor_layer.html#validate_layer"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#revert_changes" url="editor_layer.html#revert_changes"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#load_default" url="editor_layer.html#load_default"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#Some_Configuration_Layer_XML_Snippets" url="editor_layer.html#Some_Configuration_Layer_XML_Snippets"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.editor_layer.html#Some_Title_Bar_Layer_XML_Snippets" url="editor_layer.html#Some_Title_Bar_Layer_XML_Snippets"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.3th_party.html" url="3th_party.html"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.copyright.html" url="copyright.html"/>
+    <mapID target="ar.org.austral.java.netbeans.plugins.titlebar.docs.gpl30.html" url="gpl30.html"/>
+</map>
